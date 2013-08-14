@@ -1,0 +1,10 @@
+binding: user.agent=safari
+binding: compiler.useSourceMaps=true
+binding: locale=en
+Compiling module org.synapse.CyTest
+   Validating units:
+      Ignored 1 unit with compilation errors in first pass.
+Compile with -strict or with -logLevel set to TRACE or DEBUG to see all errors.
+   [ERROR] Unable to find type 'java.lang.Object'
+      [ERROR] Hint: Check that your module inherits 'com.google.gwt.core.Core' either directly or indirectly (most often by inheriting module 'com.google.gwt.user.User')
+[ERROR] Compiler returned false

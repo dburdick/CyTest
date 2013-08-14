@@ -1,0 +1,2 @@
+Loading inherited module 'org.synapse.client.CyTest'
+   [ERROR] Unable to find 'org/synapse/client/CyTest.gwt.xml' on your classpath; could be a typo, or maybe you forgot to include a classpath entry for source?
